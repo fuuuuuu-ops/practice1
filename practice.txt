@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 2400">
+  <!-- Background -->
+  <rect width="800" height="2400" fill="#fafafa"/>
+  
+  <!-- Header Section - More refined -->
+  <rect x="0" y="0" width="800" height="80" fill="#ffffff"/>
+  <line x1="0" y1="80" x2="800" y2="80" stroke="#e0e0e0" stroke-width="1"/>
+  <text x="50" y="50" font-family="Didot, serif" font-size="28" fill="#3d3d3d" font-weight="bold">ÉVOLUER</text>
+  <rect x="600" y="25" width="150" height="40" rx="0" fill="none" stroke="#3d3d3d" stroke-width="1"/>
+  <text x="635" y="50" font-family="Didot, serif" font-size="16" fill="#3d3d3d">お問い合わせ</text>
+  
+  <!-- Hero Section - More elegant -->
+  <rect x="0" y="80" width="800" height="550" fill="#fafafa"/>
+  <rect x="400" y="80" width="400" height="550" fill="#f2f2f2"/>
+  
+  <!-- Hero Image - More sophisticated -->
+  <circle cx="600" cy="300" r="150" fill="#f2f2f2" stroke="#d4b8a0" stroke-width="2"/>
+  <circle cx="600" cy="300" r="120" fill="#f2f2f2" stroke="#d4b8a0" stroke-width="1"/>
+  
+  <!-- Abstract elegant figure -->
+  <path d="M550 250 Q600 200 650 250 Q680 320 600 380 Q520 320 550 250" fill="#d4b8a0" opacity="0.7"/>
+  
+  <!-- Main Copy - More premium font -->
+  <text x="80" y="220" font-family="Didot, serif" font-size="42" fill="#3d3d3d" font-weight="bold">Discover Your</text>
+  <text x="80" y="280" font-family="Didot, serif" font-size="46" fill="#876345" font-weight="bold">Authentic Path</text>
+  <line x1="80" y1="320" x2="320" y2="320" stroke="#d4b8a0" stroke-width="2"/>
+  <text x="80" y="360" font-family="Didot, serif" font-size="20" fill="#666666">洗練された女性のための</text>
+  <text x="80" y="395" font-family="Didot, serif" font-size="20" fill="#666666">パーソナルトランスフォーメーション</text>
+  <text x="80" y="430" font-family="Didot, serif" font-size="20" fill="#666666">プログラム</text>
+  
+  <!-- CTA Button - More elegant -->
+  <rect x="80" y="480" width="280" height="60" rx="0" fill="none" stroke="#876345" stroke-width="2"/>
+  <text x="165" y="520" font-family="Didot, serif" font-size="20" fill="#876345" font-weight="bold">無料コンサルテーション</text>
+  
+  <!-- Decorative element -->
+  <line x1="40" y1="580" x2="360" y2="580" stroke="#d4b8a0" stroke-width="1"/>
+  
+  <!-- Problems Section - More refined -->
+  <rect x="0" y="650" width="800" height="400" fill="#ffffff"/>
+  <text x="400" y="720" font-family="Didot, serif" font-size="32" fill="#3d3d3d" font-weight="bold" text-anchor="middle">Inner Challenges</text>
+  <line x1="350" y1="750" x2="450" y2="750" stroke="#d4b8a0" stroke-width="2"/>
+  
+  <!-- Problem Cards - More luxurious -->
+  <rect x="100" y="780" width="180" height="220" rx="0" fill="#ffffff" stroke="#e0e0e0" stroke-width="1"/>
+  <circle cx="190" cy="840" r="30" fill="#f9f5f0" stroke="#d4b8a0" stroke-width="1"/>
+  <text x="190" y="900" font-family="Didot, serif" font-size="16" fill="#3d3d3d" text-anchor="middle">キャリアと</text>
+  <text x="190" y="925" font-family="Didot, serif" font-size="16" fill="#3d3d3d" text-anchor="middle">プライベートの</text>
+  <text x="190" y="950" font-family="Didot, serif" font-size="16" fill="#3d3d3d" text-anchor="middle">バランス</text>
+  
+  <rect x="310" y="780" width="180" height="220" rx="0" fill="#ffffff" stroke="#e0e0e0" stroke-width="1"/>
+  <circle cx="400" cy="840" r="30" fill="#f9f5f0" stroke="#d4b8a0" stroke-width="1"/>
+  <text x="400" y="900" font-family="Didot, serif" font-size="16" fill="#3d3d3d" text-anchor="middle">自己価値の</text>
+  <text x="400" y="925" font-family="Didot, serif" font-size="16" fill="#3d3d3d" text-anchor="middle">再発見</text>
+  
+  <rect x="520" y="780" width="180" height="220" rx="0" fill="#ffffff" stroke="#e0e0e0" stroke-width="1"/>
+  <circle cx="610" cy="840" r="30" fill="#f9f5f0" stroke="#d4b8a0" stroke-width="1"/>
+  <text x="610" y="900" font-family="Didot, serif" font-size="16" fill="#3d3d3d" text-anchor="middle">真のキャリア</text>
+  <text x="610" y="925" font-family="Didot, serif" font-size="16" fill="#3d3d3d" text-anchor="middle">ビジョン</text>
+  
+  <!-- Service Overview - More premium -->
+  <rect x="0" y="1100" width="800" height="380" fill="#f9f5f0"/>
+  <text x="400" y="1170" font-family="Didot, serif" font-size="32" fill="#3d3d3d" font-weight="bold" text-anchor="middle">Premium Coaching Program</text>
+  <line x1="320" y1="1200" x2="480" y2="1200" stroke="#d4b8a0" stroke-width="2"/>
+  
+  <rect x="150" y="1240" width="500" height="180" rx="0" fill="#ffffff" stroke="#d4b8a0" stroke-width="1"/>
+  <text x="400" y="1290" font-family="Didot, serif" font-size="22" fill="#876345" font-weight="bold" text-anchor="middle">Authentic Self Discovery</text>
+  <text x="400" y="1330" font-family="Didot, serif" font-size="16" fill="#666666" text-anchor="middle">あなた本来の価値観と強みを明確にし</text>
+  <text x="400" y="1360" font-family="Didot, serif" font-size="16" fill="#666666" text-anchor="middle">理想のライフスタイルを実現する</text>
+  <text x="400" y="1390" font-family="Didot, serif" font-size="16" fill="#666666" text-anchor="middle">エグゼクティブコーチングプログラム</text>
+  
+  <!-- Coach Introduction - More distinguished -->
+  <rect x="0" y="1500" width="800" height="350" fill="#ffffff"/>
+  <text x="400" y="1570" font-family="Didot, serif" font-size="32" fill="#3d3d3d" font-weight="bold" text-anchor="middle">Your Coach</text>
+  <line x1="350" y1="1600" x2="450" y2="1600" stroke="#d4b8a0" stroke-width="2"/>
+  
+  <circle cx="250" cy="1700" r="100" fill="#f9f5f0" stroke="#d4b8a0" stroke-width="1"/>
+  <!-- Inside circle elegant silhouette -->
+  <path d="M250 1640 Q270 1650 290 1680 Q280 1720 250 1740 Q220 1720 210 1680 Q230 1650 250 1640" fill="#d4b8a0" opacity="0.7"/>
+  
+  <rect x="380" y="1610" width="300" height="180" rx="0" fill="#ffffff"/>
+  <text x="395" y="1640" font-family="Didot, serif" font-size="24" fill="#876345" font-weight="bold">藤田 真理子</text>
+  <text x="395" y="1670" font-family="Didot, serif" font-size="16" fill="#666666">エグゼクティブコーチ</text>
+  <text x="395" y="1700" font-family="Didot, serif" font-size="16" fill="#666666">国際コーチ連盟マスター認定</text>
+  <text x="395" y="1730" font-family="Didot, serif" font-size="16" fill="#666666">ハーバードビジネススクール修了</text>
+  <text x="395" y="1760" font-family="Didot, serif" font-size="16" fill="#666666">グローバル企業役員を多数指導</text>
+  
+  <!-- Testimonials - More refined -->
+  <rect x="0" y="1870" width="800" height="350" fill="#f9f5f0"/>
+  <text x="400" y="1940" font-family="Didot, serif" font-size="32" fill="#3d3d3d" font-weight="bold" text-anchor="middle">Client Voices</text>
+  <line x1="350" y1="1970" x2="450" y2="1970" stroke="#d4b8a0" stroke-width="2"/>
+  
+  <rect x="150" y="2000" width="500" height="180" rx="0" fill="#ffffff" stroke="#d4b8a0" stroke-width="1"/>
+  <circle cx="230" cy="2060" r="50" fill="#f9f5f0" stroke="#d4b8a0" stroke-width="1"/>
+  <text x="320" y="2040" font-family="Didot, serif" font-size="18" fill="#3d3d3d">中村 優子様（38歳・企業役員）</text>
+  <text x="320" y="2070" font-family="Didot, serif" font-size="16" fill="#666666">「このプログラムを通じて本当の自分と</text>
+  <text x="320" y="2100" font-family="Didot, serif" font-size="16" fill="#666666">向き合うことができました。今はより自信を</text>
+  <text x="320" y="2130" font-family="Didot, serif" font-size="16" fill="#666666">持ってリーダーシップを発揮しています」</text>
+  
+  <!-- Final CTA - More sophisticated -->
+  <rect x="0" y="2240" width="800" height="200" fill="#f9f5f0"/>
+  <text x="400" y="2310" font-family="Didot, serif" font-size="32" fill="#3d3d3d" font-weight="bold" text-anchor="middle">Begin Your Transformation</text>
+  <rect x="250" y="2340" width="300" height="60" rx="0" fill="none" stroke="#876345" stroke-width="2"/>
+  <text x="400" y="2380" font-family="Didot, serif" font-size="20" fill="#876345" font-weight="bold" text-anchor="middle">プライベートセッションを予約</text>
+  
+  <!-- Footer - More elegant -->
+  <rect x="0" y="2450" width="800" height="50" fill="#3d3d3d"/>
+  <text x="400" y="2480" font-family="Didot, serif" font-size="14" fill="#ffffff" text-anchor="middle">© 2025 ÉVOLUER COACHING All Rights Reserved.</text>
+  
+</svg>
